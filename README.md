@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kulpunai
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning Data Science tools
+- 💞️ I’m looking to collaborate on DS projects
 - 📫 How to reach me (Kulpunaillllmk@gmail.com)
 
 <!---
